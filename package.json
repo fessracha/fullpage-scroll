@@ -1,0 +1,15 @@
+{
+  "name": "fullpage-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts" : "tsc FullpageScroll.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
